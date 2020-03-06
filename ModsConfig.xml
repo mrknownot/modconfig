@@ -34,6 +34,7 @@
     <li>fluffy.thebirdsandthebees</li>
     <li>fluffy.pharmacist</li>
     <li>fluffy.blueprints</li>
+    <li>fluffy.stuffedfloors</li>
     <li>fluffy.animaltab</li>
     <li>fluffy.colonymanager</li>
     <li>com.github.alandariva.moreplanning</li>
@@ -65,11 +66,15 @@
     <li>petetimessix.simplesidearms</li>
     <li>roolo.dualwield</li>
     <li>roolo.runandgun</li>
+    <li>roolo.searchanddestroy</li>
     <li>agentblac.makepawnsprisoners</li>
     <li>brrainz.samespot</li>
+    <li>newcolonist.largefactionbases</li>
+    <li>saucypigeon.realisticplanets</li>
     <li>cabbage.rimcities</li>
     <li>murmur.factionresources</li>
     <li>murmur.enemyselfpreservation</li>
+    <li>torann.customdeathrandomness</li>
     <li>hobtook.mortaraccuracy</li>
     <li>brrainz.carefulraids</li>
     <li>brrainz.rangefinder</li>
@@ -85,6 +90,7 @@
     <li>hatti.qualitybuilder</li>
     <li>insertkey.itemlistselector</li>
     <li>tammybee.selectablesculpturegraphic</li>
+    <li>tammybee.statueofcolonist</li>
     <li>karmine394.uraniumhishgreen</li>
     <li>owlchemist.undergroundpowerconduits</li>
     <li>uuugggg.roomfood</li>
@@ -137,6 +143,8 @@
     <li>lbmaian.begonemessage</li>
     <li>owlchemist.bettervanillamasking</li>
     <li>uuugggg.melaninmatters</li>
+    <li>extracting.organs</li>
+    <li>dubwise.dubsbadhygiene</li>
     <li>vat.epoeforked</li>
     <li>vat.epoeforkedroyalty</li>
     <li>mythos.extendedhumanbodysimulation</li>
@@ -148,22 +156,27 @@
     <li>arandomkiwi.killforme</li>
     <li>arandomkiwi.downforme</li>
     <li>oblitus.animalslogic</li>
+    <li>factioncontrol.kv.rw</li>
     <li>orion.factiondiscovery</li>
     <li>sineswiper.factionblender</li>
+    <li>saakra.factioncolonies</li>
     <li>woolstrand.realruins</li>
     <li>albion.goexplore</li>
     <li>katavrik.crashlanding</li>
     <li>earthyturtle.letstrade</li>
+    <li>nationality.psychology.unofficialupdate</li>
     <li>kentington.saveourship2</li>
     <li>smashphil.neceros.srtsexpanded</li>
     <li>albion.sparklingworlds.full</li>
     <li>teok25.archotechexpanded</li>
+    <li>lwm.deepstorage</li>
     <li>vanillaexpanded.vee</li>
     <li>vanillaexpanded.vcef</li>
     <li>vanillaexpanded.vwe</li>
     <li>vanillaexpanded.vweq</li>
     <li>vanillaexpanded.vwel</li>
     <li>rimsenal.evp</li>
+    <li>tikubonn.anestheticgunmod</li>
     <li>paradox.morevanillaturrets</li>
     <li>vanillaexpanded.varme</li>
     <li>vanillaexpanded.vappe</li>
@@ -172,9 +185,11 @@
     <li>vanillaexpanded.vfecore</li>
     <li>vanillaexpanded.vfeart</li>
     <li>vanillaexpanded.vfefarming</li>
+    <li>dogproblems.musicalinstruments</li>
     <li>vanillaexpanded.vfemedical</li>
     <li>vanillaexpanded.vfeproduction</li>
     <li>vanillaexpanded.vfesecurity</li>
+    <li>mantrasong.zengarden.1</li>
     <li>hiztaar.essential.uscmcore</li>
     <li>sneaks.recycle</li>
     <li>dracoix.doormat.r11a</li>
@@ -182,8 +197,8 @@
     <li>zymex.gloomyvanillaoverhaul</li>
     <li>dalrae.gloomydeco</li>
     <li>rusticfox.exoticjoy</li>
-    <li>dogproblems.musicalinstruments</li>
     <li>cp.retro.joy</li>
+    <li>crustypeanut.rc2.core</li>
     <li>rimfridge.kv.rw</li>
     <li>akairo.tamagomeshi</li>
     <li>sneaks.meatblend</li>
@@ -202,6 +217,8 @@
     <li>murmur.walllight</li>
     <li>ogliss.thewhitecrayon.quarry</li>
     <li>sarg.alphaanimals</li>
+    <li>sarg.geneticrim</li>
+    <li>sarg.geneticrimalphaanimals</li>
     <li>sarg.magicalmenagerie</li>
     <li>sarg.rimbees</li>
     <li>vanillaexpanded.vaeas</li>
@@ -234,10 +251,11 @@
     <li>wemd.realisticdarkness</li>
     <li>carnysenpai.traitraritycolors</li>
     <li>kaostico.ineveraskedforthis</li>
-    <li>cucumpear.stonetweaks</li>
     <li>nandonalt.snowytrees</li>
+    <li>cucumpear.stonetweaks</li>
+    <li>bichang.moresculpture</li>
     <li>vanillaexpanded.vhe</li>
-    <li>ryflamer.hdpawntextures</li>
+    <li>ryflamer.hdpawntextures.har</li>
     <li>gloomy.gloomyfacemk2</li>
     <li>gloomy.gloomyhairmk2</li>
     <li>rooboid127.roooshaccessoryhhairstyles</li>
@@ -247,8 +265,9 @@
     <li>peppsen.pmusic</li>
     <li>hiztaar.optionnal.uscmfcm</li>
     <li>chjees.androids</li>
-    <li>morishep.tarojun.onioftherim</li>
     <li>erisss.avali</li>
+    <li>morishep.tarojun.onioftherim</li>
+    <li>jaxxa.ed.enhancedoptions</li>
   </activeMods>
   <knownExpansions>
     <li>ludeon.rimworld.royalty</li>

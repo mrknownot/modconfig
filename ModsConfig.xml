@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-  <version>1.1.2564 rev908</version>
+  <version>1.1.2566 rev552</version>
   <activeMods>
     <li>brrainz.harmony</li>
     <li>automatic.startupimpact</li>
@@ -9,6 +9,7 @@
     <li>ludeon.rimworld</li>
     <li>ludeon.rimworld.royalty</li>
     <li>unlimitedhugs.hugslib</li>
+    <li>roolo.giddyupcore</li>
     <li>erdelf.humanoidalienraces</li>
     <li>jecrell.jecstools</li>
     <li>notfood.frameratecontrol</li>
@@ -26,6 +27,8 @@
     <li>unlimitedhugs.allowtool</li>
     <li>merthsoft.designatorshapes</li>
     <li>wgflash55.circleandoval</li>
+    <li>radzerp.naturalpaths</li>
+    <li>radzerp.naturallakes</li>
     <li>zylle.morevanillabiomes</li>
     <li>dubwise.dubsmintmenus</li>
     <li>esoudiere.variablepopulation</li>
@@ -38,7 +41,6 @@
     <li>fluffy.animaltab</li>
     <li>fluffy.colonymanager</li>
     <li>com.github.alandariva.moreplanning</li>
-    <li>fluffy.medicaltab</li>
     <li>notfood.researchpal</li>
     <li>tallidown.numbers</li>
     <li>hatti.cleaningarea</li>
@@ -64,20 +66,22 @@
     <li>nilchei.dynamicdiplomacy</li>
     <li>ghxx.techadvancing</li>
     <li>com.yayo.combat</li>
+    <li>unlimitedhugs.defensivepositions</li>
     <li>petetimessix.simplesidearms</li>
     <li>roolo.dualwield</li>
     <li>roolo.runandgun</li>
     <li>roolo.searchanddestroy</li>
     <li>agentblac.makepawnsprisoners</li>
-    <li>brrainz.samespot</li>
     <li>newcolonist.largefactionbases</li>
     <li>saucypigeon.realisticplanets</li>
     <li>cabbage.rimcities</li>
     <li>murmur.factionresources</li>
     <li>murmur.enemyselfpreservation</li>
     <li>torann.customdeathrandomness</li>
+    <li>linq.deathrattle</li>
     <li>hobtook.mortaraccuracy</li>
     <li>brrainz.carefulraids</li>
+    <li>brrainz.samespot</li>
     <li>brrainz.rangefinder</li>
     <li>tammybee.whereismyweapon</li>
     <li>avilmask.nonunopinata</li>
@@ -152,6 +156,7 @@
     <li>ogliss.ykara.harvesteverything</li>
     <li>smuffle.harvestorganspostmortem</li>
     <li>frozensnowfox.vanillabionicsexpansion</li>
+    <li>aelanna.eccentrictech.cosmetics</li>
     <li>spoonshortage.adogsaidanimalprosthetics</li>
     <li>arandomkiwi.huntforme</li>
     <li>arandomkiwi.killforme</li>
@@ -160,6 +165,7 @@
     <li>factioncontrol.kv.rw</li>
     <li>orion.factiondiscovery</li>
     <li>sineswiper.factionblender</li>
+    <li>mlie.variousspaceshipchunk</li>
     <li>saakra.factioncolonies</li>
     <li>woolstrand.realruins</li>
     <li>albion.goexplore</li>
@@ -170,6 +176,8 @@
     <li>smashphil.neceros.srtsexpanded</li>
     <li>albion.sparklingworlds.full</li>
     <li>teok25.archotechexpanded</li>
+    <li>dubwise.rimatomics</li>
+    <li>dubwise.rimefeller</li>
     <li>lwm.deepstorage</li>
     <li>vanillaexpanded.vee</li>
     <li>vanillaexpanded.vcef</li>
@@ -217,6 +225,9 @@
     <li>zylle.sandcastles</li>
     <li>murmur.walllight</li>
     <li>ogliss.thewhitecrayon.quarry</li>
+    <li>roolo.giddyupbattlemounts</li>
+    <li>roolo.giddyupcaravan</li>
+    <li>roolo.giddyuprideandroll</li>
     <li>sarg.alphaanimals</li>
     <li>sarg.geneticrim</li>
     <li>sarg.geneticrimalphaanimals</li>
@@ -264,8 +275,9 @@
     <li>densevoid.tribalheadgear</li>
     <li>zodgilla.vanillameleeretexture</li>
     <li>peppsen.pmusic</li>
-    <li>hiztaar.optionnal.uscmfcm</li>
     <li>chjees.androids</li>
+    <li>atlas.androidtiers</li>
+    <li>arandomkiwi.androidtierstxserie</li>
     <li>erisss.avali</li>
     <li>morishep.tarojun.onioftherim</li>
   </activeMods>

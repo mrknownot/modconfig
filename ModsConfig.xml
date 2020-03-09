@@ -3,6 +3,7 @@
   <version>1.1.2567 rev774</version>
   <activeMods>
     <li>brrainz.harmony</li>
+    <li>com.yayo.runtimegc</li>
     <li>automatic.startupimpact</li>
     <li>brrainz.mode</li>
     <li>malteschulze.rimmsassemble</li>
@@ -70,7 +71,7 @@
     <li>nilchei.dynamicdiplomacy</li>
     <li>ghxx.techadvancing</li>
     <li>janson.weapontech11</li>
-    <li>com.yayo.combat</li>
+    <li>com.yayo.combat2</li>
     <li>unlimitedhugs.defensivepositions</li>
     <li>petetimessix.simplesidearms</li>
     <li>roolo.dualwield</li>
@@ -136,13 +137,14 @@
     <li>moretraitslots.kv.rw</li>
     <li>sevencolortype.hyperionc</li>
     <li>uuugggg.crazycatlady</li>
+    <li>marvinkosh.ughyougotme</li>
     <li>vakaria.respectscarslite</li>
     <li>dubwise.dubsbreakmod</li>
     <li>xeonovadan.memorableauroras</li>
     <li>pelador.tvforprison</li>
     <li>berryragepyre.prisonerrecreation</li>
     <li>dnajur.relearn</li>
-    <li>yodadoge.craftsmanship</li>
+    <li>jelly.craftsmanship</li>
     <li>avilmask.commonsense</li>
     <li>avilmask.grazinglands</li>
     <li>xeonovadan.nocturnalanimals</li>
@@ -160,7 +162,7 @@
     <li>uuugggg.melaninmatters</li>
     <li>extracting.organs</li>
     <li>dubwise.dubsbadhygiene</li>
-    <li>teok25.archotechexpanded</li>
+    <li>teok25.archotechexpanded.prosthetics</li>
     <li>vat.epoeforked</li>
     <li>vat.epoeforkedroyalty</li>
     <li>mythos.extendedhumanbodysimulation</li>
@@ -185,6 +187,7 @@
     <li>earthyturtle.letstrade</li>
     <li>sjaak31367.zoologicalorbitaltraders</li>
     <li>nationality.psychology.unofficialupdate</li>
+    <li>smashphil.boats</li>
     <li>kentington.saveourship2</li>
     <li>smashphil.neceros.srtsexpanded</li>
     <li>albion.sparklingworlds.full</li>
@@ -223,6 +226,7 @@
     <li>dalrae.gloomydeco</li>
     <li>rusticfox.exoticjoy</li>
     <li>cp.retro.joy</li>
+    <li>soulfulpumpkin.tabletoptrove</li>
     <li>crustypeanut.rc2.core</li>
     <li>rimfridge.kv.rw</li>
     <li>akairo.tamagomeshi</li>
@@ -244,10 +248,11 @@
     <li>roolo.giddyupcaravan</li>
     <li>roolo.giddyuprideandroll</li>
     <li>sarg.alphaanimals</li>
+    <li>sarg.rimbees</li>
     <li>sarg.geneticrim</li>
     <li>sarg.geneticrimalphaanimals</li>
+    <li>sarg.geneticrimrimbees</li>
     <li>sarg.magicalmenagerie</li>
-    <li>sarg.rimbees</li>
     <li>vanillaexpanded.vaeas</li>
     <li>vanillaexpanded.vaeau</li>
     <li>vanillaexpanded.vaebf</li>
@@ -296,6 +301,7 @@
     <li>erisss.avali</li>
     <li>morishep.tarojun.onioftherim</li>
     <li>kerevan.ottodrow</li>
+    <li>neceros.drugsinbulk</li>
   </activeMods>
   <knownExpansions>
     <li>ludeon.rimworld.royalty</li>

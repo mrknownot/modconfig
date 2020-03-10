@@ -3,7 +3,7 @@
   <version>1.1.2567 rev774</version>
   <activeMods>
     <li>brrainz.harmony</li>
-    <li>com.yayo.runtimegc</li>
+    <li>automatic.startupimpact</li>
     <li>brrainz.mode</li>
     <li>malteschulze.rimmsassemble</li>
     <li>ludeon.rimworld</li>
@@ -35,6 +35,7 @@
     <li>jaxe.rimhud</li>
     <li>fluffy.followme</li>
     <li>fluffy.thebirdsandthebees</li>
+    <li>fluffy.pharmacist</li>
     <li>fluffy.blueprints</li>
     <li>fluffy.stuffedfloors</li>
     <li>fluffy.animaltab</li>
@@ -69,7 +70,7 @@
     <li>nilchei.dynamicdiplomacy</li>
     <li>ghxx.techadvancing</li>
     <li>janson.weapontech11</li>
-    <li>com.yayo.combat2</li>
+    <li>com.yayo.combat</li>
     <li>unlimitedhugs.defensivepositions</li>
     <li>petetimessix.simplesidearms</li>
     <li>roolo.dualwield</li>
@@ -102,7 +103,6 @@
     <li>insertkey.itemlistselector</li>
     <li>tammybee.selectablesculpturegraphic</li>
     <li>tammybee.statueofcolonist</li>
-    <li>tammybee.statueofcolonist.alienracepatch</li>
     <li>karmine394.uraniumhishgreen</li>
     <li>owlchemist.undergroundpowerconduits</li>
     <li>uuugggg.roomfood</li>
@@ -118,7 +118,6 @@
     <li>mlph.openeddoorsdontblocklight</li>
     <li>dubwise.dubsskylights</li>
     <li>tammybee.cutplantsbeforebuilding</li>
-    <li>neceros.drugsinbulk</li>
     <li>frozensnowfox.growableambrosia</li>
     <li>tammybee.predatorhuntalert</li>
     <li>jamaicancastle.shoo</li>
@@ -137,14 +136,13 @@
     <li>moretraitslots.kv.rw</li>
     <li>sevencolortype.hyperionc</li>
     <li>uuugggg.crazycatlady</li>
-    <li>marvinkosh.ughyougotme</li>
     <li>vakaria.respectscarslite</li>
     <li>dubwise.dubsbreakmod</li>
     <li>xeonovadan.memorableauroras</li>
     <li>pelador.tvforprison</li>
     <li>berryragepyre.prisonerrecreation</li>
     <li>dnajur.relearn</li>
-    <li>jelly.craftsmanship</li>
+    <li>yodadoge.craftsmanship</li>
     <li>avilmask.commonsense</li>
     <li>avilmask.grazinglands</li>
     <li>xeonovadan.nocturnalanimals</li>
@@ -158,10 +156,11 @@
     <li>xeonovadan.visiblepants</li>
     <li>showhair.kv.rw</li>
     <li>lbmaian.begonemessage</li>
+    <li>owlchemist.bettervanillamasking</li>
     <li>uuugggg.melaninmatters</li>
     <li>extracting.organs</li>
     <li>dubwise.dubsbadhygiene</li>
-    <li>teok25.archotechexpanded.prosthetics</li>
+    <li>teok25.archotechexpanded</li>
     <li>vat.epoeforked</li>
     <li>vat.epoeforkedroyalty</li>
     <li>mythos.extendedhumanbodysimulation</li>
@@ -199,7 +198,6 @@
     <li>vanillaexpanded.vwel</li>
     <li>rimsenal.evp</li>
     <li>tikubonn.anestheticgunmod</li>
-    <li>rottweiler.simplymoremelee</li>
     <li>paradox.morevanillaturrets</li>
     <li>vanillaexpanded.varme</li>
     <li>vanillaexpanded.vappe</li>
@@ -247,10 +245,9 @@
     <li>roolo.giddyuprideandroll</li>
     <li>sarg.alphaanimals</li>
     <li>sarg.geneticrim</li>
-    <li>sarg.rimbees</li>
     <li>sarg.geneticrimalphaanimals</li>
-    <li>sarg.geneticrimrimbees</li>
     <li>sarg.magicalmenagerie</li>
+    <li>sarg.rimbees</li>
     <li>vanillaexpanded.vaeas</li>
     <li>vanillaexpanded.vaeau</li>
     <li>vanillaexpanded.vaebf</li>
@@ -291,6 +288,7 @@
     <li>sakama.storytellerhair</li>
     <li>aelanna.eccentricextras.angelhairs</li>
     <li>densevoid.tribalheadgear</li>
+    <li>zodgilla.vanillameleeretexture</li>
     <li>peppsen.pmusic</li>
     <li>chjees.androids</li>
     <li>atlas.androidtiers</li>
